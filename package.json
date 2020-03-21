@@ -1,0 +1,14 @@
+{
+  "name": "temperaturecheck",
+  "version": "1.0.0",
+  "description": "Supply the current temperature for an input zip code",
+  "main": "tempCheck.js",
+  "scripts": {
+    "start": "node tempCheck.js"
+  },
+  "keywords": [
+    "temperature"
+  ],
+  "author": "Russell Modlin",
+  "license": "MIT"
+}
